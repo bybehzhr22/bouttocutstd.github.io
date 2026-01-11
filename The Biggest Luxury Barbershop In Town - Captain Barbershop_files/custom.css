@@ -1,0 +1,68 @@
+/* ===============================
+   GLOBAL COLOR OVERRIDE
+   NAVY & GOLD – FORCE VERSION
+   =============================== */
+
+/* BACKGROUND UTAMA */
+html, body {
+  background-color: #0C0F2E !important;
+  color: #F5F5F5 !important;
+}
+
+/* SEMUA SECTION */
+section,
+.elementor-section,
+.elementor-section-wrap {
+  background-color: #0C0F2E !important;
+}
+
+/* SECTION DALAM */
+.elementor-container,
+.elementor-column,
+.elementor-widget-wrap {
+  background-color: transparent !important;
+}
+
+/* HEADER & NAVBAR */
+header,
+nav,
+.elementor-location-header {
+  background-color: #0C0F2E !important;
+}
+
+/* LINK MENU */
+a,
+nav a,
+.elementor-nav-menu a {
+  color: #D4AF37 !important;
+}
+
+a:hover,
+.elementor-nav-menu a:hover {
+  color: #E6C76A !important;
+}
+
+/* JUDUL */
+h1, h2, h3, h4, h5, h6,
+.elementor-heading-title {
+  color: #D4AF37 !important;
+}
+
+/* TEKS */
+p,
+.elementor-text-editor {
+  color: #F5F5F5 !important;
+}
+
+/* BUTTON */
+button,
+.btn,
+.elementor-button {
+  background-color: #D4AF37 !important;
+  color: #0C0F2E !important;
+  border: none !important;
+}
+
+button:hover,
+.btn:hover,
+.elementor-butt
